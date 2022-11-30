@@ -3,6 +3,10 @@
 
 ![image](https://user-images.githubusercontent.com/107199800/204584963-6ba30052-ba17-468b-bd88-e12b901dcac8.png)
 
+
+![image](https://user-images.githubusercontent.com/107199800/204828686-7d329597-165a-4751-8a58-2c8c58d1385f.png)
+
+
     
 ## 🚀 Technologies:
   Frontend:
