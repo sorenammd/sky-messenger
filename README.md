@@ -15,7 +15,7 @@
   Backend:
     Node js,Express,Jsonwebtoken,Bcrypt,Jalali-moment
     
-  Darabase:
+  Database:
     mongodb(mongoose),mysql(bookshelf),redis(ioredis)
     
   Other:
