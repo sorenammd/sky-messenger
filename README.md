@@ -9,7 +9,7 @@
 
 ## Project capabilities:
 
-vidwo call , vioce call , Chat and found people with Location
+video call , voice call , Chat and found people with Location
 
     
 ## 🚀 Technologies:
