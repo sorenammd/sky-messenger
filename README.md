@@ -7,6 +7,10 @@
 ![image](https://user-images.githubusercontent.com/107199800/204828686-7d329597-165a-4751-8a58-2c8c58d1385f.png)
 
 
+## Project capabilities:
+
+vidwo call , vioce call , Chat and found people with Location
+
     
 ## 🚀 Technologies:
   Frontend:
